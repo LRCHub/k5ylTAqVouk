@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "カメレオン",
+  "base_artist": "すりぃ",
+  "createdAt": "2026-03-06T00:43:00.024530Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ストレンジ カメレオン - Rock Stock Version",
+      "artist": "the pillows",
+      "has_synced": false,
+      "path": "select/01_ストレンジ_カメレオン_-_Rock_Stock_Version_the_pillows.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カメレオン - すりぃ ver.",
+      "artist": "すりぃ",
+      "has_synced": true,
+      "path": "select/02_カメレオン_-_すりぃ_ver._すりぃ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ストレンジ カメレオン ORIGINAL STORY",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/03_ストレンジ_カメレオン_ORIGINAL_STORY_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ストレンジ カメレオン (ORIGINAL STORY)",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/04_ストレンジ_カメレオン_(ORIGINAL_STORY)_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カメレオン",
+      "artist": "すりぃ",
+      "has_synced": false,
+      "path": "select/05_カメレオン_すりぃ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ストレンジ カメレオン",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/06_ストレンジ_カメレオン_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ストレンジ カメレオン (ロックストックヴァージョン)",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/07_ストレンジ_カメレオン_(ロックストックヴァージョン)_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ストレンジ カメレオン (ORIGINAL STORY)",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/08_ストレンジ_カメレオン_(ORIGINAL_STORY)_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "カメレオン・アーミー",
+      "artist": "ピンク・レディー",
+      "has_synced": true,
+      "path": "select/09_カメレオン・アーミー_ピンク・レディー.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "カメレオン・アーミー",
+      "artist": "ピンク・レディー",
+      "has_synced": true,
+      "path": "select/10_カメレオン・アーミー_ピンク・レディー.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "カメレオン・レンズ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/11_カメレオン・レンズ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "カメレオン・レンズ",
+      "artist": "PornoGraffitti",
+      "has_synced": false,
+      "path": "select/12_カメレオン・レンズ_PornoGraffitti.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ストレンジ カメレオン",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/13_ストレンジ_カメレオン_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "カメレオン",
+      "artist": "The Street Sliders",
+      "has_synced": false,
+      "path": "select/14_カメレオン_The_Street_Sliders.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "カメレオン",
+      "artist": "九州男",
+      "has_synced": true,
+      "path": "select/15_カメレオン_九州男.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "カメレオン・ラブ",
+      "artist": "PolyphonicBranch",
+      "has_synced": false,
+      "path": "select/16_カメレオン・ラブ_PolyphonicBranch.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カメレオン",
+      "artist": "すりぃ",
+      "has_synced": false,
+      "path": "select/pl_01_カメレオン_すりぃ.txt"
+    }
+  ]
+}
